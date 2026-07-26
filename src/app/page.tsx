@@ -93,6 +93,13 @@ export default function Home() {
           </a>
         </div>
       )}
+
+      <a
+        href="/coffee"
+        className="mt-4 text-sm text-zinc-500 underline underline-offset-2 hover:text-zinc-300"
+      >
+        View the Ember &amp; Oak coffee brand site →
+      </a>
     </main>
   );
 }
